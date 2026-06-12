@@ -1,0 +1,12 @@
+{
+    "name": "kozocom-marketplace",
+    "owner": {
+        "name": "doanhv-kozocom"
+    },
+    "plugins": [
+        {
+            "name": "next-seo-skills",
+            "source": "./plugins/next-seo-skills"
+        }
+    ]
+}

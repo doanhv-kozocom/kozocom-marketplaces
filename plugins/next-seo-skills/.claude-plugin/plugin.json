@@ -1,0 +1,9 @@
+{
+    "name": "next-seo-skills",
+    "description": "SEO planning, audit, implementation, and fix workflows for Next.js",
+    "version": "1.0.0",
+    "author": {
+        "name": "Ho Van Doan",
+        "url": "https://github.com/doanhv-kozocom"
+    }
+}
